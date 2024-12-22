@@ -1,5 +1,7 @@
 # Honeypot - Theory and Practice of a Honeypot in Cybersecurity
 
+## Spanish version available
+
 This repository explores the concept and implementation of a honeypot for cybersecurity purposes. It provides theoretical insights and practical steps to set up and manage a honeypot, enabling the study of malicious activities in a controlled environment.
 
 ## Contents
